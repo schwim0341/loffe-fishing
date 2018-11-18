@@ -1,21 +1,22 @@
 # loffe-fishing
-Ett script som låter dig fiska vid piren om du har fiskespö & fiskebete
+A script that allows you to fish at the pier if you have fishing pole and fishing work
 
-Har du problem med scriptet, kontakta mig på discord Loffe#1337
-### Krav
+If you have problems with the script, contact me at Discord Loffe # 1337
+Requirement
 
- - [pNotify](https://github.com/Nick78111/pNotify) krävs för notifikationer
+     pNotify is required for notifications
 
-### Installation
+Installation
 
- - Ladda ner pNotify
- 
- - Byt namn från ```loffe-fishing-master``` till ```loffe-fishing```
- 
- - Kör sql filen
- 
- - Lägg in alla scripten i din resources mapp
- 
- - Gå in i server.cfg och skriv ``` start loffe-fishing ```
- 
- - För att ändra ställe man fiskar på etc, gå in i client.lua
+     Download pNotify
+
+     Rename from loffe-fishing master to loffe-fishing
+
+     Run the sql file
+
+     Enter all the scripts in your resource folder
+
+     Enter server.cfg and enter start loffe-fishing
+
+     To change place you fish on etc, enter client.lua
+    
